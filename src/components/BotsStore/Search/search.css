@@ -1,0 +1,11 @@
+.search input{
+    height: 45px;
+}
+
+.search button{
+    height: 45px;
+    width: 45px;
+    background: #1792E5;
+    color:white;
+    border-left: solid thin #ccc;
+}

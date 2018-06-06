@@ -1,0 +1,23 @@
+.mainPanel .react-tabs {
+    padding-top: 15px;
+}
+
+.sidePanel .react-tabs {
+    padding-top: 15px;
+}
+
+.sidePanel .react-tabs .react-tabs__tab-panel {
+    margin-top: 10px;
+}
+
+.searchHeading{
+    font-size: 24px;
+    width: 521px;
+    margin: auto;
+}
+
+.search{
+    width:622px;
+  margin:auto;
+  margin-top:30px
+  }

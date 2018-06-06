@@ -1,0 +1,53 @@
+.bot-card {
+    width:288px;
+    height: 288px;
+    background: white;
+    margin: 10px;
+    margin-top: 15px;
+    box-shadow: 0px 0px 10px 0px #ddd;
+}
+
+.bot-card-active{
+    box-shadow: 0px 0px 13px -1px #aaa;
+}
+
+.bot-card .icon{
+    height: 108px;
+    background: #F5F5F5;
+}
+
+.title{
+    background: white;
+    font-size: 18px;
+}
+
+.chat img{
+    border-top:solid thin #B7B7B7;
+    width:230px;
+}
+.chat img:hover{
+    border-top:solid thin white;
+}
+
+.ratingViewsSection{
+
+    background: white;
+}
+
+.rating label{
+    font-size:1.9rem;
+    margin-bottom:0 !important;
+}
+
+.bot-card .views{
+    padding-top: 13px !important;
+    color: #707070
+}
+
+.bot-card .botImage{
+    padding-top: 26px;
+}
+
+.bot-card .title{
+    height: 54px;
+}

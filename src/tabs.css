@@ -1,0 +1,37 @@
+.react-tabs__tab-list {
+    margin: 0 0 10px;
+    padding: 0;
+  border:none;
+  text-align:left
+  }
+
+  .react-tabs__tab {
+    background: #fff;
+    color: black;
+
+    width: 150px;
+    text-align: center;
+  }
+
+  .react-tabs__tab--selected {
+    background: #fff;
+    color: black;
+    border:none;
+    border-bottom: solid #1792E5 4px;
+    width: 150px;
+    outline: none!important;
+    text-align: center;
+  }
+
+  .react-tabs__tab--disabled {
+    color: GrayText;
+    cursor: default;
+  }
+
+  .react-tabs__tab-panel {
+    display: none;
+  }
+
+  .react-tabs__tab-panel--selected {
+    display: block;
+  }
